@@ -1,4 +1,25 @@
-# nuxt-vuetify-app
+# nuxt-vuetify-ttw
+corpora search ttw based on nuxt and vuetify
+
+## Query Format
+
+```js
+//search_es.js
+const corsproxy = "corsproxy.dattw.ga"
+let index = ["uncor", "dictcor", "europarl"]
+let baseURL = `https://${corsproxy}/127.0.0.1:9200/${index.join(",")}/_search/`
+```
+
+*   uncor/?phrase=test
+*   dictcor/?phrase=test
+*   europarl/?phrase=test
+
+## Cloudflare Workers Setup
+
+```bash
+yarn generate
+wrangle publish
+```
 
 ## Build Setup
 

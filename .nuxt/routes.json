@@ -2,57 +2,71 @@
   {
     "name": "axios-elasticsearch",
     "path": "/axios-elasticsearch",
-    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-app/pages/axios-elasticsearch.js",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-ttw/pages/axios-elasticsearch.js",
     "chunkName": "pages/axios-elasticsearch",
-    "_name": "_5cc5e667"
+    "_name": "_5e93135e"
   },
   {
     "name": "axios-elasticsearch-copy",
     "path": "/axios-elasticsearch-copy",
-    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-app/pages/axios-elasticsearch-copy.js",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-ttw/pages/axios-elasticsearch-copy.js",
     "chunkName": "pages/axios-elasticsearch-copy",
-    "_name": "_261ed725"
+    "_name": "_3c7da97b"
+  },
+  {
+    "name": "dictcor",
+    "path": "/dictcor",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-ttw/pages/dictcor.vue",
+    "chunkName": "pages/dictcor",
+    "_name": "_1736da30"
+  },
+  {
+    "name": "europarl",
+    "path": "/europarl",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-ttw/pages/europarl.vue",
+    "chunkName": "pages/europarl",
+    "_name": "_6ab04cb0"
   },
   {
     "name": "inspire",
     "path": "/inspire",
-    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-app/pages/inspire.vue",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-ttw/pages/inspire.vue",
     "chunkName": "pages/inspire",
-    "_name": "_5b50005c"
+    "_name": "_ee4b829c"
   },
   {
     "name": "search_es",
     "path": "/search_es",
-    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-app/pages/search_es.js",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-ttw/pages/search_es.js",
     "chunkName": "pages/search_es",
-    "_name": "_d91152f0"
+    "_name": "_1734e2f2"
   },
   {
     "name": "test-run",
     "path": "/test-run",
-    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-app/pages/test-run.js",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-ttw/pages/test-run.js",
     "chunkName": "pages/test-run",
-    "_name": "_651b0511"
+    "_name": "_dab57932"
   },
   {
     "name": "uncor",
     "path": "/uncor",
-    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-app/pages/uncor.vue",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-ttw/pages/uncor.vue",
     "chunkName": "pages/uncor",
-    "_name": "_d5126262"
+    "_name": "_2008aaa5"
   },
   {
     "name": "Uncor-",
     "path": "/Uncor-",
-    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-app/pages/Uncor-.vue",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-ttw/pages/Uncor-.vue",
     "chunkName": "pages/Uncor-",
-    "_name": "_dff3c9e4"
+    "_name": "_57afb9f8"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-app/pages/index.vue",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-ttw/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_73282658"
+    "_name": "_50fdc8aa"
   }
 ]

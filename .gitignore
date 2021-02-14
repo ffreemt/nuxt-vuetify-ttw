@@ -1,1 +1,5 @@
 rsync-from-duanzi-to-win.bat
+wrangler.toml
+debug.log
+dist
+*.bat

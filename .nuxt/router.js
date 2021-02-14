@@ -4,14 +4,16 @@ import { normalizeURL, decode } from '@nuxt/ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _5cc5e667 = () => interopDefault(import('../pages/axios-elasticsearch.js' /* webpackChunkName: "pages/axios-elasticsearch" */))
-const _261ed725 = () => interopDefault(import('../pages/axios-elasticsearch-copy.js' /* webpackChunkName: "pages/axios-elasticsearch-copy" */))
-const _5b50005c = () => interopDefault(import('../pages/inspire.vue' /* webpackChunkName: "pages/inspire" */))
-const _d91152f0 = () => interopDefault(import('../pages/search_es.js' /* webpackChunkName: "pages/search_es" */))
-const _651b0511 = () => interopDefault(import('../pages/test-run.js' /* webpackChunkName: "pages/test-run" */))
-const _d5126262 = () => interopDefault(import('../pages/uncor.vue' /* webpackChunkName: "pages/uncor" */))
-const _dff3c9e4 = () => interopDefault(import('../pages/Uncor-.vue' /* webpackChunkName: "pages/Uncor-" */))
-const _73282658 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _5e93135e = () => interopDefault(import('../pages/axios-elasticsearch.js' /* webpackChunkName: "pages/axios-elasticsearch" */))
+const _3c7da97b = () => interopDefault(import('../pages/axios-elasticsearch-copy.js' /* webpackChunkName: "pages/axios-elasticsearch-copy" */))
+const _1736da30 = () => interopDefault(import('../pages/dictcor.vue' /* webpackChunkName: "pages/dictcor" */))
+const _6ab04cb0 = () => interopDefault(import('../pages/europarl.vue' /* webpackChunkName: "pages/europarl" */))
+const _ee4b829c = () => interopDefault(import('../pages/inspire.vue' /* webpackChunkName: "pages/inspire" */))
+const _1734e2f2 = () => interopDefault(import('../pages/search_es.js' /* webpackChunkName: "pages/search_es" */))
+const _dab57932 = () => interopDefault(import('../pages/test-run.js' /* webpackChunkName: "pages/test-run" */))
+const _2008aaa5 = () => interopDefault(import('../pages/uncor.vue' /* webpackChunkName: "pages/uncor" */))
+const _57afb9f8 = () => interopDefault(import('../pages/Uncor-.vue' /* webpackChunkName: "pages/Uncor-" */))
+const _50fdc8aa = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 // TODO: remove in Nuxt 3
 const emptyFn = () => {}
@@ -31,35 +33,43 @@ export const routerOptions = {
 
   routes: [{
     path: "/axios-elasticsearch",
-    component: _5cc5e667,
+    component: _5e93135e,
     name: "axios-elasticsearch"
   }, {
     path: "/axios-elasticsearch-copy",
-    component: _261ed725,
+    component: _3c7da97b,
     name: "axios-elasticsearch-copy"
   }, {
+    path: "/dictcor",
+    component: _1736da30,
+    name: "dictcor"
+  }, {
+    path: "/europarl",
+    component: _6ab04cb0,
+    name: "europarl"
+  }, {
     path: "/inspire",
-    component: _5b50005c,
+    component: _ee4b829c,
     name: "inspire"
   }, {
     path: "/search_es",
-    component: _d91152f0,
+    component: _1734e2f2,
     name: "search_es"
   }, {
     path: "/test-run",
-    component: _651b0511,
+    component: _dab57932,
     name: "test-run"
   }, {
     path: "/uncor",
-    component: _d5126262,
+    component: _2008aaa5,
     name: "uncor"
   }, {
     path: "/Uncor-",
-    component: _dff3c9e4,
+    component: _57afb9f8,
     name: "Uncor-"
   }, {
     path: "/",
-    component: _73282658,
+    component: _50fdc8aa,
     name: "index"
   }],
 
