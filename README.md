@@ -18,7 +18,7 @@ let baseURL = `https://${corsproxy}/127.0.0.1:9200/${index.join(",")}/_search/`
 
 ```bash
 yarn generate
-wrangle publish
+wrangler publish
 ```
 
 ## Build Setup
