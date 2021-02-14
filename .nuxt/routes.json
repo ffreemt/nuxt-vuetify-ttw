@@ -1,0 +1,58 @@
+[
+  {
+    "name": "axios-elasticsearch",
+    "path": "/axios-elasticsearch",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-app/pages/axios-elasticsearch.js",
+    "chunkName": "pages/axios-elasticsearch",
+    "_name": "_5cc5e667"
+  },
+  {
+    "name": "axios-elasticsearch-copy",
+    "path": "/axios-elasticsearch-copy",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-app/pages/axios-elasticsearch-copy.js",
+    "chunkName": "pages/axios-elasticsearch-copy",
+    "_name": "_261ed725"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-app/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_5b50005c"
+  },
+  {
+    "name": "search_es",
+    "path": "/search_es",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-app/pages/search_es.js",
+    "chunkName": "pages/search_es",
+    "_name": "_d91152f0"
+  },
+  {
+    "name": "test-run",
+    "path": "/test-run",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-app/pages/test-run.js",
+    "chunkName": "pages/test-run",
+    "_name": "_651b0511"
+  },
+  {
+    "name": "uncor",
+    "path": "/uncor",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-app/pages/uncor.vue",
+    "chunkName": "pages/uncor",
+    "_name": "_d5126262"
+  },
+  {
+    "name": "Uncor-",
+    "path": "/Uncor-",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-app/pages/Uncor-.vue",
+    "chunkName": "pages/Uncor-",
+    "_name": "_dff3c9e4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/ubuntu/myapps/github/nuxt-vuetify-app/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_73282658"
+  }
+]
